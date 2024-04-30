@@ -1,0 +1,53 @@
+/* global variables */
+
+:root{
+  /* navbar*/
+  --navbar-bgcolor:#eddcd9;
+  /* --navbar-bgcolor:#c8d6dd; */
+  --navbar-color:#333333;
+  --navbar-mobile-bgcolor:#EAEAEA;
+  --navbar-hover-bgcolor:#B0C4DE;
+  --navbar-shadow:0.063rem 0.063rem 0px 0px #E99F4C;
+
+  /* for background page */
+  --body-bgcolor:#F9F9F9;
+  /* #f1f2f8; */
+  /* --job-cat-section-bgcolor:#f2f2f2; */
+  --job-cat-section-bgcolor:#f1f2f8;
+  --footer-bgcolor:#d9edd4;
+
+  /* ----------for form input -----------*/
+  --input-shadow:0.188rem 0.25rem 0 0.063rem #E99F4C;
+  --input-radius:0.25rem;
+  --input-font-size:0.938rem;
+  --input-padding:0.75rem 0.625rem;
+  --input-border:0.125rem solid #264143;
+  --input-outline:none;
+
+  /*--------------for btn-------------- */
+  --btn-padding:1rem;
+  --btn-margin:1.8rem 0;
+  --btn-font-size:1rem;
+  --btn-bgcolor:#DE5499;
+  --btn-radius:0.625rem;
+  --btn-weight:800;
+  --btn-shadow: 0.188rem 0.188rem 0 0 #E99F4C;
+
+  /*------------- for title --------------- */
+  --big-title-color:#08105d; /*#264143;*/
+  --big-title-weight:900;
+  --big-title-font-size:1.5em;
+
+  /*--------- for subtitle ---------*/
+  --title-weight:600;
+  --title-margin:0.313rem 0;
+
+  /*-------- for head title ---------*/
+  --head-title-font-size:2.5rem;
+  --head-title-font-weight:700;
+  --head-title-line-height:3.75rem;
+  --head-title-color:#2d2d56;/*#08105D;*/
+  --head-title-height:3.75rem;
+  --head-title-width:69.375rem;
+  
+}
