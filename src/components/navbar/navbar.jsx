@@ -28,7 +28,7 @@ const Navbar = () => {
           <TiThMenu />
         </div>
         <div className="logobox">
-          <img src={process.env.PUBLIC_URL + "images/about_us.jpg"} alt="fuji" />
+          <img src="/public/images/about_us.jpg" alt="fuji" />
           <p className="logo_name">山口尺长 工𠘨 丁卂尸卂𠘨</p>
         </div>
         <div
