@@ -27,7 +27,7 @@ function App() {
           Component={AllJobs}
         ></Route>
 
-        <Route path="*" exact Component={Error}></Route>
+        <Route path="*" exact Component={Home}></Route>
       </Routes>
 
       <Footer />

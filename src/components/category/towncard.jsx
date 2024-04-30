@@ -19,7 +19,7 @@ const TownCard = () => {
     return (
       <Link to={`/alljobs/${imgItem.name}/${pageid}`}>
       <div className="town_card" key={imgItem.name}>
-        <img src={"/public/images/" + imgItem.web_name} alt={imgItem.name} />
+        <img src={process.env.PUBLIC_URL + "images/" + imgItem.web_name} alt={imgItem.name} />
         <p className="title">{imgItem.name}</p>
       </div>
       </Link>
